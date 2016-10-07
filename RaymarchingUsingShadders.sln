@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaymarchingUsingShadders.CSharp.Plugins", "RaymarchingUsingShadders.CSharp.Plugins.csproj", "{E59D90C1-83FE-7FE3-2387-09B291AD8647}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaymarchingUsingShadders.CSharp", "RaymarchingUsingShadders.CSharp.csproj", "{8E0905D5-3637-87FD-FB18-492E78008FBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaymarchingUsingShadders.CSharp.Editor", "RaymarchingUsingShadders.CSharp.Editor.csproj", "{5FC1E7B3-049F-705C-2BCB-ECEDB4520125}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E59D90C1-83FE-7FE3-2387-09B291AD8647}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E59D90C1-83FE-7FE3-2387-09B291AD8647}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E59D90C1-83FE-7FE3-2387-09B291AD8647}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E59D90C1-83FE-7FE3-2387-09B291AD8647}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E0905D5-3637-87FD-FB18-492E78008FBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E0905D5-3637-87FD-FB18-492E78008FBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E0905D5-3637-87FD-FB18-492E78008FBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E0905D5-3637-87FD-FB18-492E78008FBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FC1E7B3-049F-705C-2BCB-ECEDB4520125}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FC1E7B3-049F-705C-2BCB-ECEDB4520125}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FC1E7B3-049F-705C-2BCB-ECEDB4520125}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FC1E7B3-049F-705C-2BCB-ECEDB4520125}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
